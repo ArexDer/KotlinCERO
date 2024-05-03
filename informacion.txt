@@ -1,2 +1,13 @@
 Aqui vamos a escribir toda la parte teorica del codigo en caso
 de ser necesaria
+
+Multiparadigma.
+Va a compartir sus bases con java pero mas actualizados.
+Es FUERTEMENTE Tipado.
+SOLID
+SOLID es un acrónimo que representa cinco principios esenciales del diseño orientado a objetos.
+  1-responsabilidad única
+  2-abierto-cerrado
+  3-sustitución de Liskov
+  4-segregación de interfaz
+  5-inversión de dependencia.

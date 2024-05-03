@@ -38,5 +38,7 @@ var num = 2
  "destructuring declarations"
 
  val (x, y) = Pair(1, 2) // asigna el valor 1 a x y el valor 2 a y
+
+ val name: String = "John"
  
   */

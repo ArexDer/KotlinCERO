@@ -11,3 +11,4 @@ SOLID es un acrónimo que representa cinco principios esenciales del diseño ori
   3-sustitución de Liskov
   4-segregación de interfaz
   5-inversión de dependencia.
+  importante

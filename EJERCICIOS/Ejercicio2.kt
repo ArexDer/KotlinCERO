@@ -1,0 +1,12 @@
+
+
+
+
+
+
+fun main() {
+    /*
+    DADO UN NUMERO DECIRME QUE NUMERO CORRESPONE A UNIDAD,DECENA,CENTENIA,UNIDAD DE MIL
+     */
+    
+}
